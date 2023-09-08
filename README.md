@@ -1,1 +1,1 @@
-gitHello Github, ini adalah repository pertama saya 23.
+gitHello Github, ini adalah repository pertama saya .
